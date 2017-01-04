@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/images">
+    <file>Images/2-victoria-falls-nature-waterfalls (1).bmp</file>
+    <file>Images/3d_architecture_project-wallpaper-2560x1600.jpg</file>
+    <file>Images/02174_gazeduponbyangelsintheirflight_1920x1080.jpg</file>
+    <file>Images/76492-tebe2.jpg</file>
+    <file>Images/big-dark-clouds.jpg</file>
+    <file>Images/Hillsidecity.jpg</file>
+    <file>Images/p1030846_altered-1.jpg</file>
+    <file>Images/gray_background_by_wiedzmawiedzma-d4u7n1d.jpg</file>
+    <file>Images/bg-gradient.png</file>
+  </qresource>
+</RCC>
